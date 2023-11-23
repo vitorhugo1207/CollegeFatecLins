@@ -1,0 +1,25 @@
+.cursorPointer{
+    cursor: pointer !important;;
+}
+
+.sendButtonOverrider{
+    width: 100px !important;
+}
+
+.p-top-3{
+    padding-top: 3%;
+}
+
+.p-bottom-3{
+    padding-bottom: 3%;
+}
+
+.margin-3{
+    margin: 3%;
+}
+
+.selectNone{
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
